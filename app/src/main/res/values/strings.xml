@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Modern Ui Application</string>
+    <string name="menu_texto">More Information</string>
+    <string name="titulo_alerta">Click below to learn more!</string>
+    <string name="mensagem_alerta">Inspired by the works of artists such as Piet Mondrian and Ben Nicholson.</string>
+    <string name="positivo_button">Visit MOMA</string>
+    <string name="negativo_button">Not Now</string>
+    <string name="seletor_button">Open Whith</string>
+
+</resources>
